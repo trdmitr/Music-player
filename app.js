@@ -29,6 +29,10 @@ document.addEventListener('DOMContentLoaded', () => {
          "https://sun9-21.userapi.com/s/v1/if1/kfO-6fbGm6B78OSHeLmoeGSBS__kvG7l9-iYPJpT055O-T-mzAexwzGB7XflsQamnCOZgy20.jpg?size=960x1280&quality=96&type=album"
       ],
       [
+        "Дворовый стиль", "Вороны", "https://drive.google.com/uc?export=download&id=10mnAwtb-KBQitwEDheWh0zGj3y5yim44",
+         "https://sun9-12.userapi.com/s/v1/ig2/buaspJUYifMeZp1RTfPR9eI6_srfdiO-_thvTAqMQNqFlSUAnVEXI2qEcs4m2UzKIu9s_AfZJrBs3OPZQST3wIAQ.jpg?size=786x1080&quality=96&type=album"
+      ],
+      [
         "ENA_WD & DackFax", "Далеко", "https://drive.google.com/uc?export=download&id=1r0zKdpe1-pbLZfKPCNzbpIVIw6Vcs315",
          "https://sun9-80.userapi.com/s/v1/if1/KwVbU01CJFoYuemlfSjffv7S2YKh1v1ggTMvjywRRxveZetelMXw0KS8znCFOs_yXhGOigDB.jpg?size=1280x1024&quality=96&type=album"
       ],

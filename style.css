@@ -44,7 +44,7 @@ h1.blocktext {
 #card #list {
     width: 40%;
     border-radius: 0 20px 20px 0;
-    background: transparent;
+    background: tranparent;
     display: flex;
     flex-direction: column;
     overflow-y: scroll;
@@ -57,7 +57,7 @@ h1.blocktext {
   }
 #card #list .item {
     padding: 0 1em;
-    background: white;
+    background: rgba(236, 241, 235, 0.733);
     transition: all 0.3s ease;
     
 }
@@ -75,3 +75,10 @@ h1.blocktext {
 #card #list .item:hover {
     cursor: pointer;
 }
+audio::-webkit-media-controls-enclosure {
+
+    /* background-color: rgb(17,103,75); */
+    /* background: radial-gradient(circle, rgba(17,103,75,1) 0%, rgba(214,227,218,0.9158721838344713) 100%); */
+    background: rgb(84, 206, 165);
+/* background: linear-gradient(194deg, rgba(17,103,75,1) 0%, rgba(214,227,218,0.9158721838344713) 100%); */
+    }
