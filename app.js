@@ -41,6 +41,10 @@ document.addEventListener('DOMContentLoaded', () => {
          "https://sun9-83.userapi.com/s/v1/if2/NZ68F_l7zkKvJ-jmeii3x1ySDxWAMLuVLEdTflq1Hx-yeEtd3vuz0Ei8ZPHJ88XDA4Gj4FQufDoaH4WftXD0ZKDe.jpg?size=900x1600&quality=96&type=album"
       ],
       [
+        "Медоманы", "Метель", "https://drive.google.com/uc?export=download&id=1scicA1CGXdxqdIQurSrt_tKi-58bkb8r",
+         "https://drive.google.com/uc?export=download&id=1y0BhTmvh9_JJeyTk75bu-TWhoyHlNPBk"
+      ],
+      [
         "Василий Рыжкин", "Это всё", "https://drive.google.com/uc?export=download&id=1F8jB1Oq8zECd74pSXotAktJS4P3ZNGx_",
          "https://sun9-17.userapi.com/s/v1/ig2/7bi3HGIsG3xPbdZJZ2IRmpB5UxaBzluDOW8Ucj3gOmoqb1Z2MZ8ElzBmYFaGTLYnF8DWYgTUxfmsHY-tH7j7446k.jpg?size=1600x1200&quality=95&type=album"
       ],
